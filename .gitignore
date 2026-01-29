@@ -1,0 +1,23 @@
+# Build / IDE
+build/
+cmake-build-*/
+*.o
+*.obj
+*.exe
+*.out
+*.dll
+*.so
+*.dylib
+
+snapshot.txt
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs and temporary
+*.log
+*.tmp
